@@ -1,0 +1,30 @@
+2026-11-26 18:07:53,851 INFO Connected to Discord desktop app
+2026-11-26 18:08:29,083 INFO Read embedded media cover (2221206 bytes, image/bmp)
+2026-11-26 18:08:29,449 INFO Converted the embedded BMP cover to image/png
+2026-11-26 18:08:51,099 INFO Connected to Discord desktop app
+2026-11-26 18:08:51,193 INFO Read embedded media cover (2221206 bytes, image/bmp)
+2026-11-26 18:08:51,279 WARNING Could not publish cover to Litterbox: HTTPSConnectionPool(host='litterbox.catbox.moe', port=443): Read timed out. (read timeout=20)
+2026-11-26 18:08:51,519 INFO Converted the embedded BMP cover to image/png
+2026-11-26 18:08:51,767 INFO Uploaded embedded cover to Uguu temporary hosting
+2026-11-26 18:08:52,277 INFO Now playing: no one — meta
+2026-11-26 18:09:00,850 WARNING Could not publish cover to Litterbox: 412 Client Error: Precondition Failed for url: https://litterbox.catbox.moe/resources/internals/api.php
+2026-11-26 18:09:01,251 INFO Uploaded embedded cover to Uguu temporary hosting
+2026-11-26 18:09:01,705 INFO Now playing: no one — meta
+2026-11-26 18:09:06,727 INFO Playback stopped; cleared Discord activity
+2026-11-26 18:09:07,346 INFO Playback stopped; cleared Discord activity
+2026-11-26 18:09:36,826 INFO Read embedded media cover (21474 bytes, image/jpeg,image/jpe,image/jpg)
+2026-11-26 18:09:37,452 INFO Read embedded media cover (21474 bytes, image/jpeg,image/jpe,image/jpg)
+2026-11-26 18:09:39,214 WARNING Could not publish cover to Litterbox: 412 Client Error: Precondition Failed for url: https://litterbox.catbox.moe/resources/internals/api.php
+2026-11-26 18:09:39,216 WARNING Could not publish cover to Litterbox: 412 Client Error: Precondition Failed for url: https://litterbox.catbox.moe/resources/internals/api.php
+2026-11-26 18:09:39,409 INFO Uploaded embedded cover to Uguu temporary hosting
+2026-11-26 18:09:39,409 INFO Uploaded embedded cover to Uguu temporary hosting
+2026-11-26 18:09:39,598 INFO Now playing: a — ton (slowed + bass boost)
+2026-11-26 18:09:39,644 INFO Now playing: a — ton (slowed + bass boost)
+2026-11-26 18:09:44,621 INFO Playback stopped; cleared Discord activity
+2026-11-26 18:09:44,664 INFO Playback stopped; cleared Discord activity
+2026-11-26 18:09:49,633 INFO Read embedded media cover (21474 bytes, image/jpeg,image/jpe,image/jpg)
+2026-11-26 18:09:49,679 INFO Read embedded media cover (21474 bytes, image/jpeg,image/jpe,image/jpg)
+2026-11-26 18:09:49,703 INFO Now playing: a — ton (slowed + bass boost)
+2026-11-26 18:09:49,708 INFO Now playing: a — ton (slowed + bass boost)
+2026-11-26 18:10:15,126 INFO Playback stopped; cleared Discord activity
+2026-11-26 18:10:15,128 INFO Playback stopped; cleared Discord activity
